@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,600&family=Inter:wght@300&family=Luxurious+Script&family=M+PLUS+Code+Latin&family=Merriweather&family=Mohave:wght@600&family=Montagu+Slab&family=Open+Sans:wght@300&family=Roboto:ital,wght@0,400;1,100;1,400&display=swap');
+body{
+    background-image:  url(https://c.wallhere.com/photos/54/ee/black_background_pattern_light_texture-661919.jpg!d);;
+}
+ #main{
+    width: 80%;
+    padding: 2%;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(77, 74, 74);
+}
+#main #title{
+    color: rgb(216, 212, 212);
+    text-align: center;
+    font-size: 5vw;
+}
+#main #tribute-info{
+    color: rgb(184, 180, 180);
+    text-align: center;
+    font-size: 3.5vh;
+}
+#img-div{
+    width: 80%;
+    padding: .5%;
+    margin: auto;
+}
+#img-div #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+#img-div #img-caption{
+    color: rgb(216, 212, 212);
+}
+#img-div #img-caption a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: tomato;
+}
+#img-div #img-caption #tribute-link{
+    color: tomato;
+    cursor: pointer;
+}
+#main #subtitle{
+    color:rgb(189, 184, 184) ;
+    text-align: center;
+}
+#img-div #img-caption #tribute-link:hover{
+    color:tomato ;
+    font-size: 1.02em;
+}
+#spotify #tribute-link{
+  text-decoration:none;
+  font-weight:bolder;
+  color: rgb(18, 136, 18);
+}
+ul li{
+    color: rgb(179, 179, 174);
+}
+li spam{
+    color: tomato;
+    font-weight: bolder;
+}
+#main #lyrics{
+    font-family: 'Luxurious Script', cursive;
+    font-weight: lighter;
+    font-size: 7.5vh;
+    text-align: center;
+    color: whitesmoke;
+}
